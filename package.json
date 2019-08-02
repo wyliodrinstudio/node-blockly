@@ -16,8 +16,7 @@
     "commonjs"
   ],
   "dependencies": {
-    "jsdom": "^15.1.1",
-    "xmlshim": "^0.2.5"
+    
   },
   "devDependencies": {
     "chai": "^4.2.0",
